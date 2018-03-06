@@ -7,7 +7,7 @@
     "postversion": "git push && git push --tags"
   },
   "cordova": {
-    "id": "cordova-support-google-services",
+    "id": "cordova-plugin-google-services-ka",
     "platforms": [
       "android"
     ]
