@@ -3,7 +3,7 @@ xmlns:android="http://schemas.android.com/apk/res/android"
            id="cordova-plugin-google-services-ka"
       version="1.0.0">
 
-    <name>cordova-support-google-services</name>
+    <name>cordova-plugin-google-services-ka</name>
     <description>Cordova plugin to add google service support</description>
     <license>MIT</license>
     <keywords>cordova</keywords>
