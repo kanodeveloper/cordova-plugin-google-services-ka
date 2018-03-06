@@ -1,5 +1,5 @@
 {
-  "name": "cordova-support-google-services",
+  "name": "cordova-plugin-google-services-ka",
   "version": "1.0.0",
   "description": "Cordova plugin to add google service support",
   "scripts": {
